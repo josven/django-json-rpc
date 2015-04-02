@@ -83,7 +83,7 @@ Adding JSON-RPC to your application
 
 ::
 
-    git clone git://github.com/samuraisam/django-json-rpc.git
+    git clone git://github.com/josven/django-json-rpc.git
     cd django-json-rpc
     python setup.py install
 
@@ -285,8 +285,8 @@ the beginning of your method.
   author="Samuel Sutch",
   author_email="samuraiblog@gmail.com",
   license="MIT",
-  url="http://github.com/samuraisam/django-json-rpc/tree/master",
-  download_url="http://github.com/samuraisam/django-json-rpc/tree/master",
+  url="http://github.com/josven/django-json-rpc/tree/master",
+  download_url="http://github.com/josven/django-json-rpc/tree/master",
   classifiers = [
     'Development Status :: 5 - Production/Stable',
     'Environment :: Web Environment',
